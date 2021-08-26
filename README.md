@@ -2,7 +2,7 @@
 
 ### SOBRE O PROJETO
 
-Esse projeto foi feito durante o Bootcamp Santander.
+Este projeto foi feito durante o Bootcamp Santander.
 
 O projeto original estava um pouco defasado.
 
@@ -52,9 +52,8 @@ Caso queira dar uma olhada no projeto original: https://github.com/oswaldoneto/d
 
 Foram utilizadas duas soluções NO-SQL neste projeto, sendo elas o ElasticSearch e o Redis.
 
-- - https://www.linkedin.com/in/vinicius-ornelas-587075128/)
 
-### TODOS OS SERVIÇO UP
 
-![image-20210826110121195](C:\Users\welin\AppData\Roaming\Typora\typora-user-images\image-20210826110121195.png)
+
+
 
